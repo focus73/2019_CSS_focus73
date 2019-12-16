@@ -1,0 +1,17 @@
+a {
+    color: red;
+}
+
+.main-link:hover {
+    color: pink;
+}
+
+a:active {
+    color: yellow;
+}
+
+a:visited {
+    color: green;
+  }
+
+  
